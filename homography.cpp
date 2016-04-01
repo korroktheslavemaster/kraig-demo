@@ -61,7 +61,7 @@ void readme();
     }
     // if count is high enough, return answer
     if (count >= p1.size()/5) {
-      // should do least squaers fitting using all the inliers...
+      // should do least squaeres fitting using all the inliers...
       // just returning H for now.
       return H;
     }
